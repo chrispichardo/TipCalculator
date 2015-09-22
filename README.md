@@ -16,4 +16,5 @@ Completed:
 ![Video Walkthrough](TipCalculator.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 Icons from [FlatIcon](http://www.flaticon.com/packs/ios7-set-lined-1)
