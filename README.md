@@ -14,3 +14,6 @@ Completed:
 * [x] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 ![Video Walkthrough](TipCalculator.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Icons from [FlatIcon](http://www.flaticon.com/packs/ios7-set-lined-1)
